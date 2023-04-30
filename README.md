@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amber.yufangchiu@gmail.com**
 
-- 📄 Know about my experiences [https://www.cakeresume.com/amber-yu-fang-chiu](https://www.cakeresume.com/amber-yu-fang-chiu)
+- 📄 Know about my experiences [My CV](https://shorturl.at/GSTZ4)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
