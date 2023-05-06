@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amberyufangchiu&label=Profile%20views&color=0e75b6&style=flat" alt="amberyufangchiu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amberyufangchiu" alt="amberyufangchiu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amberyufangchiu&show_icons=true&locale=en&layout=compact" alt="amberyufangchiu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amberyufangchiu&show_icons=true&locale=en" alt="amberyufangchiu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amberyufangchiu&" alt="amberyufangchiu" /></p>
 
 # 💫 About Me:
 🌱 I’m currently learning **TypeScript** and **GSAP**<br><br>📝 I regularly write articles on [https://medium.com/@amber.yufangchiu](https://medium.com/@amber.yufangchiu)<br><br>💬 Ask me about React, Redux and JavaScript<br><br>📫 How to reach me **amber.yufangchiu@gmail.com**<br><br>📄 Know about my experiences [My CV](https://shorturl.at/GSTZ4)
