@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 Nihao I'm Amber Yu-fang Chiu</h1>
 <h3 align="center">A passionate software engineer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amberyufangchiu&label=Profile%20views&color=0e75b6&style=flat" alt="amberyufangchiu" /> </p>
-
 # 💫 About Me:
 🌱 I’m currently learning **TypeScript** and **Blind 75**<br><br>📝 I regularly write articles on [https://medium.com/@amber.yufangchiu](https://medium.com/@amber.yufangchiu)<br><br>💬 Ask me about React, Redux and JavaScript<br><br>📫 How to reach me **amber.yufangchiu@gmail.com**<br><br>📄 Know about my experiences [My CV](https://drive.google.com/file/d/1_RaWhdq6dqAAE8m0BtePJDRv_DbyxVoS/view?usp=sharing)
 
